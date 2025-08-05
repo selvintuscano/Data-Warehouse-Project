@@ -84,7 +84,7 @@ The `fact_sales` table captures transactional sales data, linked to two key dime
 
 <img width="1172" height="816" alt="Sales Data Mart" src="https://github.com/user-attachments/assets/2af40196-6862-4fac-a094-8b00d92c9da3" />
 
-*Star schema showing relationships between sales, customers, and products.*
+
 
 ---
 ## 🎯 Skills Demonstrated
@@ -100,4 +100,3 @@ This project showcases capabilities across:
 
 
 
-> 💡 Feel free to customize the image path and update links to dashboards or queries if you're hosting this project online or sharing it with recruiters.
